@@ -27,7 +27,7 @@ public class O3 {
 
         } while (!positiv);
 
-
+        //Når positivt heltall er funnet, gjør vi n! kalkulasjonen
 
         for (int i = 1; i<=heltall; i++) {
             k *= i;
