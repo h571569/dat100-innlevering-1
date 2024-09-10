@@ -15,7 +15,7 @@ public class O3 {
         System.out.println("Skriv inn ett heltall ");
 
         do {
-
+            //Do-While loop for å få inn ett positivt heltall
             Scanner inn = new Scanner(System.in);
             heltall = parseInt(inn.nextLine());
 
